@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  lex.cpp
+c:\users\user\desktop\lexical-analyzer-master\lex.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\lexical-analyzer-master\lex.cpp(175): warning C4018: '<': signed/unsigned mismatch
+  DFA.cpp
+  Generating Code...
+  Lexical Analyzer.vcxproj -> C:\Users\user\Desktop\Lexical-Analyzer-master\Debug\Lexical Analyzer.exe
+  Lexical Analyzer.vcxproj -> C:\Users\user\Desktop\Lexical-Analyzer-master\Debug\Lexical Analyzer.pdb (Full PDB)
